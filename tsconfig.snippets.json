@@ -1,0 +1,1 @@
+{"compilerOptions":{"types":[]},"extends":"./tsconfig.json","files":["snippets/article-snippets.ts"]}
